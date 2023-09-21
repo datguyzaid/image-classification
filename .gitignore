@@ -1,0 +1,20 @@
+1. MNIST Handwritten Digit Classifier/Trained Models/
+2. CIFAR-10 Image Classifier/Trained Models/
+3. Cats vs Dogs Classifier/Datasets/
+3. Cats vs Dogs Classifier/Trained Models/
+4. EMNIST Alphanumeric Classifier/Datasets/
+4. EMNIST Alphanumeric Classifier/Trained Models/
+5. Fruits Classifier/Dataset/
+5. Fruits Classifier/Trained Models/
+6. Fashion MNIST Clothing Classifier/Dataset/
+6. Fashion MNIST Clothing Classifier/Trained Models/
+7. Food-11 Classifier Using VGG16/Dataset/
+7. Food-11 Classifier Using VGG16/Trained Models/
+8. Monkey Breed Classifier Using MobileNetV1/Dataset/
+8. Monkey Breed Classifier Using MobileNetV1/Trained Models/
+9. Flower-17 Classifier Using VGG16/Dataset/
+9. Flower-17 Classifier Using VGG16/Trained Models/
+10. Simpsons Character Classifier Using ResNet50V2/Dataset/
+10. Simpsons Character Classifier Using ResNet50V2/Trained Models/
+11. Sign Language Detection/dataset/
+11. Sign Language Detection/cnn.h5
